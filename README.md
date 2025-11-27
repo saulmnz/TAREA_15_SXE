@@ -187,7 +187,11 @@ class BebidaZzz(models.Model):
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/89a7fc90-a833-4c40-bd53-bd0f34aa893e" />
 
+---
+
 <br>
+<br>
+
 
 > [!TIP]
 > **Una vez activado el módulo, entramos a él y creamos una demostración de ALUMNO CON SUEÑO 🧟**
