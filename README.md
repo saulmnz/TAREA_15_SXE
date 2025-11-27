@@ -178,18 +178,25 @@ class BebidaZzz(models.Model):
   </data>
 </odoo>
 ```
+
 ---
 
+<br>
+
 ### QUINTO PASO (COMPROBACIÓN) 👨‍🍳
+
+<br>
 
 > [!TIP]
 >  **Para ello debemos entrar en el modo desarrollador de odoo, actualizar la lista de aplicaciones, buscar por el nombre el módulo creado y activarlo**
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/89a7fc90-a833-4c40-bd53-bd0f34aa893e" />
 
+<br>
+
 ---
 
-<br>
+
 <br>
 
 
