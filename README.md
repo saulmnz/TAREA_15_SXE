@@ -184,7 +184,8 @@ class BebidaZzz(models.Model):
 
 > **Para ello debemos entrar en el modo desarrollador de odoo, actualizar la lista de aplicaciones, buscar por el nombre el módulo creado y activarlo**
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/2df9c052-8076-453a-8888-39c2a3c529c7" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/89a7fc90-a833-4c40-bd53-bd0f34aa893e" />
+
 
 > **Una vez activado el módulo, entramos a él y creamos una demostración de ALUMNO CON SUEÑO 🧟**
 
