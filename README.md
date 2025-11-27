@@ -183,8 +183,6 @@ class BebidaZzz(models.Model):
 
 ### QUINTO PASO (COMPROBACIÓN) 👨‍🍳
 
-<br>
-
 > [!TIP]
 >  **Para ello debemos entrar en el modo desarrollador de odoo, actualizar la lista de aplicaciones, buscar por el nombre el módulo creado y activarlo**
 
