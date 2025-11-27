@@ -88,7 +88,7 @@ class BebidaZzz(models.Model):
         help="Valor entre 1 y 10"
     )
 
-    # CAMPO 3: LA BEBIDA RECOMENDADA 
+    # CAMPO 3: LA BEBIDA RECOMENDADA
     bebida_recomendada = fields.Char(
         string='BEBIDA RECOMENDADA',
         compute='_compute_bebida',
@@ -110,7 +110,7 @@ class BebidaZzz(models.Model):
             elif nivel == 10:
                 record.bebida_recomendada = 'Inyección de adrenalina'
             else:
-                record.bebida_recomendada = 'ERROR: nivel debe ser 1-10'
+                record.bebida_recomendada = 'ERRORRR: nivel debe ser 1-10'
 ```
 
 ---
