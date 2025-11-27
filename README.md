@@ -182,11 +182,14 @@ class BebidaZzz(models.Model):
 
 ### QUINTO PASO (COMPROBACIÓN) 👨‍🍳
 
-> **Para ello debemos entrar en el modo desarrollador de odoo, actualizar la lista de aplicaciones, buscar por el nombre el módulo creado y activarlo**
+> [!TIP]
+>  **Para ello debemos entrar en el modo desarrollador de odoo, actualizar la lista de aplicaciones, buscar por el nombre el módulo creado y activarlo**
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/89a7fc90-a833-4c40-bd53-bd0f34aa893e" />
 
+<br>
 
+> [!TIP]
 > **Una vez activado el módulo, entramos a él y creamos una demostración de ALUMNO CON SUEÑO 🧟**
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a3a505ce-d6e7-4f6f-ba70-660ff33c8ab7" />
