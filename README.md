@@ -77,13 +77,13 @@ class BebidaZzz(models.Model):
 
     # CAMPO 1: EL NOMBRE DEL ALUMNO
     alumno = fields.Char(
-        string='Alumno',
+        string='ALUMNO',
         required=True
     )
 
     # CAMPO 2: EL NIVEL DE SUEÑO DEL ALUMNO
     nivel_sueno = fields.Integer(
-        string='Nivel de sueño',
+        string='NIVEL DE SUEÑO',
         required=True,
         help="Valor entre 1 y 10"
     )
@@ -195,8 +195,8 @@ class BebidaZzz(models.Model):
 > [!TIP]
 > **Una vez activado el módulo, entramos a él y creamos una demostración de ALUMNO CON SUEÑO 🧟**
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a3a505ce-d6e7-4f6f-ba70-660ff33c8ab7" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/feaad220-6f29-4500-b3b9-26d57c0ead84" />
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1072a8fb-a382-4f7c-9bf5-2011811ce5cb" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/45a763e0-bfbb-46be-8dd5-9054801e1f92" />
 
 
